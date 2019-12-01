@@ -38,3 +38,7 @@ With the kernels we developed in part3, we also used __192*192__ blocks.
 With this simple technique, we can have a gemm with around 2 GFLOPS.
 We didn't optimize the cache size, which means we can potentially improve more
 by changing the block size.
+
+However, we are still far behind OpenBLAS.
+
+<p><img src="PI_JI_ref.png" alt="center" /></p>
