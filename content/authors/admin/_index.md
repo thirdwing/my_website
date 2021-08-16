@@ -14,7 +14,7 @@ role: C++ developer
 
 # Organizations/Affiliations
 organizations:
-- name: h2o.ai
+- name: NyquistData, Inc.
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Qiang Kou is a senior software engineer in h2o.ai. He got this Ph.D in informatics from Indiana University. He is a member of the Rcpp core team and has a lot of fun in developing in C++.
+Qiang Kou is the tech co-founder of NyquistData, Inc. He got this Ph.D in informatics from Indiana University. He is a member of the Rcpp core team and has a lot of fun in developing in C++.
